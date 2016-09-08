@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<setting>
+		<!-- setting.. -->
+	</setting>
+	<category>
+		<service>
+			<title><![CDATA[<font size="24">LOREM IPSUM DOLOR SIT AMET</font>]]></title>
+			<information><![CDATA[<font size="12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. </font>]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">IN BLANDIT ORCI SED</font>]]></title>
+			<information><![CDATA[<font size="12">In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. </font> ]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">NUNC VITAE NISL VITAE ANTE LACINIA DICTUM</font>]]></title>
+			<information><![CDATA[<font size="12">Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat.</font>]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">VESTIBULUM FAUCIBUS </font>]]></title>
+			<information><![CDATA[<font size="12">Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus.</font>]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">INTEGER A TURPIS NEQUE</font>]]></title>
+			<information><![CDATA[<font size="12">Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor. </font>]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">LOREM IPSUM DOLOR SIT AMET</font>]]></title>
+			<information><![CDATA[<font size="12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. </font>]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">IN BLANDIT ORCI SED</font>]]></title>
+			<information><![CDATA[<font size="12">In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. </font> ]]></information>
+		</service>
+		<service>
+			<title><![CDATA[<font size="24">NUNC VITAE NISL VITAE ANTE LACINIA DICTUM</font>]]></title>
+			<information><![CDATA[<font size="12">Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat.</font>]]></information>
+		</service>
+	</category>
+</data>

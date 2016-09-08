@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<setting>
+		<!-- setting.. -->
+	</setting>
+	<category>
+		<news>
+			<title><![CDATA[Interesting picture]]></title>
+			<date><![CDATA[<font size="14"><b>February,14th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/1.jpg</thumbnail>
+			<image>images/news/1.jpg</image>
+			<information><![CDATA[<font size="12">I put it in the first, because you said it was a photo with flavor, this is the first time we have met./ Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eros in est molestie aliquet. Donec luctus vestibulum erat, sed dignissim orci suscipit vel. Fusce enim lectus, hendrerit quis aliquet vel, porttitor ut lacus. Suspendisse accumsan mattis lacus, vitae bibendum metus porta et. Maecenas ut blandit nunc.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[The taste of separation]]></title>
+			<date><![CDATA[<font size="14"><b>February,15th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/2.jpg</thumbnail>
+			<image>images/news/2.jpg</image>
+			<information><![CDATA[<font size="12">This is our first time separation, the feeling is just like happened yesterday, remember when you sent me./ Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat. Donec leo ipsum, molestie quis volutpat vel, feugiat et libero. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur libero sapien, semper id elementum non, porttitor quis lorem. Aenean venenatis pharetra quam. Nulla facilisi. Integer nec leo vel orci euismod euismod id at ante.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[We are trying to]]></title>
+			<date><![CDATA[<font size="14"><b>March,12th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/3.jpg</thumbnail>
+			<image>images/news/3.jpg</image>
+			<information><![CDATA[<font size="12">Remember the archery, we have a game for the first time, but the result is obvious, it is also the first time you promise me conditions./ Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh. Aliquam mauris est, accumsan id ultrices non, convallis vitae odio. Vivamus euismod faucibus mollis.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[Separate again]]></title>
+			<date><![CDATA[<font size="14"><b>April,15th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/4.jpg</thumbnail>
+			<image>images/news/4.jpg</image>
+			<information><![CDATA[<font size="12">I have already forgot how many times the separation, but feel sad for the first time, I a person walk on the way back to took this photo, I keep it./ Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam sit amet laoreet eros. Vivamus orci massa, lobortis eu lobortis in, pellentesque nec sem.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[While you are away]]></title>
+			<date><![CDATA[<font size="14"><b>March,27th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/5.jpg</thumbnail>
+			<image>images/news/5.jpg</image>
+			<information><![CDATA[<font size="12">Your absence during that time, I feel lonely, in the beautiful scenery in other people's eyes, but I can't see./ Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eros in est molestie aliquet. Donec luctus vestibulum erat, sed dignissim orci suscipit vel. Fusce enim lectus, hendrerit quis aliquet vel, porttitor ut lacus. Suspendisse accumsan mattis lacus, vitae bibendum metus porta et. Maecenas ut blandit nunc.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[The wedding of together with you]]></title>
+			<date><![CDATA[<font size="14"><b>April,17th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/6.jpg</thumbnail>
+			<image>images/news/6.jpg</image>
+			<information><![CDATA[<font size="12">May want to start a family with you before this idea is not very strong, but now, I want to start a family with you immediately./ Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eros in est molestie aliquet. Donec luctus vestibulum erat, sed dignissim orci suscipit vel. Fusce enim lectus, hendrerit quis aliquet vel, porttitor ut lacus. Suspendisse accumsan mattis lacus, vitae bibendum metus porta et. Maecenas ut blandit nunc.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[Once again, respectively]]></title>
+			<date><![CDATA[<font size="14"><b>April,17th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/7.jpg</thumbnail>
+			<image>images/news/7.jpg</image>
+			<information><![CDATA[<font size="12">For the first time, I hope that the airport flight attendants work efficiency is low, not for other, just to stay with you for a moment later./ Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat. Donec leo ipsum, molestie quis volutpat vel, feugiat et libero. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur libero sapien, semper id elementum non, porttitor quis lorem. Aenean venenatis pharetra quam. Nulla facilisi. Integer nec leo vel orci euismod euismod id at ante.]]></information>
+		</news>
+		<news>
+			<title><![CDATA[Lose your news]]></title>
+			<date><![CDATA[<font size="14"><b>May,2th,2016</b></font>]]></date>
+			<thumbnail>images/news/thumbs/8.jpg</thumbnail>
+			<image>images/news/8.jpg</image>
+			<information><![CDATA[<font size="12">This is a photo of a at the airport, didn't think you disappear, I am afraid of this kind of feeling, don't want to have this kind of feeling./ Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh. Aliquam mauris est, accumsan id ultrices non, convallis vitae odio. Vivamus euismod faucibus mollis.]]></information>
+		</news>
+	</category>
+</data>

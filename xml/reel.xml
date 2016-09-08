@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<setting>
+		<!-- -->
+	</setting>
+	
+	<!--<video type="youtube" src="N94FJXTxBv4" width="640" height="360" fullscreen="true"></video>-->
+	
+	<video type="video" src="videos/Over The Edge.flv" width="768" height="432" autoplay="true" fullscreen="true"></video>
+</data>

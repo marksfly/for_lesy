@@ -1,0 +1,28 @@
+<!-- The type must be one of them: image, video and youtube ,default is image-->
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<image thumburl="images/gallery/thumbs/sample/01.jpg" imageurl="images/gallery/images/sample/01.jpg" name="Look my eyes"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/02.jpg" imageurl="images/gallery/images/sample/02.jpg" name="Taste good"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/03.jpg" imageurl="images/gallery/images/sample/03.jpg" name="Can't see"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/04.jpg" imageurl="images/gallery/images/sample/04.jpg" name="See what?"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/05.jpg" imageurl="images/gallery/images/sample/05.jpg" name="Guess what I think"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/06.jpg" imageurl="images/gallery/images/sample/06.jpg" name="The handsome"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/07.jpg" imageurl="images/gallery/images/sample/07.jpg" name="The cherry blossom"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/08.jpg" imageurl="images/gallery/images/sample/08.jpg" name="The wedding"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/09.jpg" imageurl="images/gallery/images/sample/09.jpg" name="A prank"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/10.jpg" imageurl="images/gallery/images/sample/10.jpg" name="Tall buildings"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/11.jpg" imageurl="images/gallery/images/sample/11.jpg" name="Open mouth"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/12.jpg" imageurl="images/gallery/images/sample/12.jpg" name="Look back"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/13.jpg" imageurl="images/gallery/images/sample/13.jpg" name="Beautiful leg"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/14.jpg" imageurl="images/gallery/images/sample/14.jpg" name="IN BLANDIT ORCI SED TELLUS IACULIS DAPIBUS"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/15.jpg" imageurl="images/gallery/images/sample/15.jpg" name="VESTIBULUM FAUCIBUS PURUS"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/16.jpg" imageurl="images/gallery/images/sample/16.jpg" name="NUNC VITAE NISL VITAE ANTE"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/17.jpg" imageurl="images/gallery/images/sample/17.jpg" name="LOREM IPSUM DOLOR SIT AMET"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/18.jpg" imageurl="images/gallery/images/sample/18.jpg" name="IN BLANDIT ORCI SED TELLUS IACULIS DAPIBUS"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/19.jpg" imageurl="images/gallery/images/sample/19.jpg" name="VESTIBULUM FAUCIBUS PURUS"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/20.jpg" imageurl="images/gallery/images/sample/20.jpg" name="NUNC VITAE NISL VITAE ANTE"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/21.jpg" imageurl="images/gallery/images/sample/21.jpg" name="LOREM IPSUM DOLOR SIT AMET"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/22.jpg" imageurl="images/gallery/images/sample/22.jpg" name="IN BLANDIT ORCI SED TELLUS IACULIS DAPIBUS"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/23.jpg" imageurl="images/gallery/images/sample/23.jpg" name="VESTIBULUM FAUCIBUS PURUS"><![CDATA[]]></image>
+	<image thumburl="images/gallery/thumbs/sample/24.jpg" imageurl="images/gallery/images/sample/24.jpg" name="NUNC VITAE NISL VITAE ANTE"><![CDATA[]]></image>
+</data>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site title="FOR LESY : %PAGE%" menu="true">
+    <page id="index" src="index.swf">
+		<!-- assets -->
+		<asset id="config" src="xml/config.xml" preload="true" />
+		<asset id="background" src="background.swf" preload="true" depth="bottom" />
+		<asset id="footer" src="footer.swf" preload="true" depth="middle" />
+		<asset id="bgmusic" src="playlist.swf" preload="true" depth="middle" />
+		<!-- nav -->
+        <page id="nav" src="nav.swf" depth="top">
+            <page id="home" title="HOME" src="slideshow.swf" route="home" depth="bottom">
+			      <asset id="data" src="xml/slideshow.xml" preload="false" />
+				  <asset id="bg" src="images/background/bg.jpg" preload="false" />
+			</page>
+			<page id="news" title="NEWS" src="news.swf" route="news" depth="middle">
+                  <asset id="data" src="xml/news.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/1.jpg" preload="false" />
+			</page>
+			<page id="aboutus" title="WHO WE ARE" src="aboutus.swf" route="aboutus" depth="middle" >
+			      <asset id="data" src="xml/about/aboutus.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/2.jpg" preload="false" />
+			</page>
+			<page id="aboutclients" title="CLIENTS" src="aboutclients.swf" route="aboutclients" depth="middle" >
+			      <asset id="data" src="xml/about/clients.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/2.jpg" preload="false" />
+			</page>
+			<page id="service" title="SERVICE" src="service.swf" route="service" depth="middle" >
+			      <asset id="data" src="xml/about/service.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/2.jpg" preload="false" />
+			</page>
+			<page id="team" title="TEAM" src="team.swf" route="team" depth="middle" >
+			      <asset id="data" src="xml/about/team.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/2.jpg" preload="false" />
+			</page>
+			<page id="reel" title="SHOWREEL" src="reel.swf" route="showreel" depth="bottom" >
+			      <asset id="data" src="xml/reel.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/2.jpg" preload="false" />
+			</page>
+			<page id="contact" title="CONTACT" src="contact.swf" route="contact" depth="middle" >
+			      <asset id="data" src="xml/contact.xml" preload="false" />
+				  <asset id="bg" src="images/slideshow/6.jpg" preload="false" />
+			</page>
+			<page id="fashion" title="FASHION" src="gallery.swf" route="fashion" depth="middle" >
+				  <asset id="data" src="xml/categories/fashion.xml" preload="false" />	
+				  <asset id="bg" src="images/slideshow/5.jpg" preload="false" />
+			</page>
+			<page id="landscape" title="LANDSCAPE" src="gallery.swf" route="landscape" depth="middle" >
+				  <asset id="data" src="xml/categories/landscape.xml" preload="false" />	
+				  <asset id="bg" src="images/slideshow/5.jpg" preload="false" />
+			</page>
+			<page id="mixed" title="MIXED GALLERY" src="gallery.swf" route="mixed gallery" depth="middle" >
+				  <asset id="data" src="xml/categories/mixed.xml" preload="false" />	
+				  <asset id="bg" src="images/slideshow/5.jpg" preload="false" />
+			</page>
+			<page id="video" title="VIDEO GALLERY" src="gallery.swf" route="video gallery" depth="middle" >
+				  <asset id="data" src="xml/categories/video.xml" preload="false" />	
+				  <asset id="bg" src="images/slideshow/5.jpg" preload="false" />
+			</page>
+			<page id="external" title="EXTERNAL" src="external.swf" route="external" depth="middle" >
+			      <asset id="data" src="yourswf.swf" preload="true"></asset>
+				  <asset id="bg" src="images/slideshow/5.jpg" preload="false" />
+			</page>
+        </page>
+    </page>
+</site>

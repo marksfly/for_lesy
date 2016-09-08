@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<setting>
+		<!-- setting.. -->
+	</setting>
+	<category>
+		<team>
+			<title><![CDATA[<font size="30"><b>Designer Name</b></font> ]]></title>
+			<date><![CDATA[<font size="15" color="#C80000"><b>Designer.</b></font>]]></date>
+			<image>images/team/1.jpg</image>
+			<information><![CDATA[<font size="12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus.</font>]]></information>
+		</team>
+		<team>
+			<title><![CDATA[<font size="30"><b>Designer Name</b></font> ]]></title>
+			<date><![CDATA[<font size="15" color="#C80000"><b>Designer.</b></font>]]></date>
+			<image>images/team/2.jpg</image>
+			<information><![CDATA[<font size="12">In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. </font>]]></information>
+		</team>
+		<team>
+			<title><![CDATA[<font size="30"><b>Designer Name</b></font> ]]></title>
+			<date><![CDATA[<font size="15" color="#C80000"><b>Designer.</b></font>]]></date>
+			<image>images/team/3.jpg</image>
+			<information><![CDATA[<font size="12">Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod.</font>]]></information>
+		</team>
+		<team>
+			<title><![CDATA[<font size="30"><b>Designer Name</b></font> ]]></title>
+			<date><![CDATA[<font size="15" color="#C80000"><b>Designer.</b></font>]]></date>
+			<image>images/team/4.jpg</image>
+			<information><![CDATA[<font size="12">Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est.</font>]]></information>
+		</team>
+	</category>
+</data>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title_info><![CDATA[FLY MARKS]]></title_info>
+	<title_form><![CDATA[E-mail Form]]></title_form>
+	<info><![CDATA[<font size="14">If you have any opinion or the suggestion, you can send me email.<br/><font color="#C80000"><a href="mailto:fly.marks@foxmail.com" target="_blank">fly.marks@foxmail.com</a></font></font>]]></info>
+	<image url="images/contact/test.png"/>
+	<!-- socailnetworks -->
+	<!-- icon width and height,please make sure that all icons are in this size -->
+	<iconwidth>24</iconwidth>
+	<iconheight>24</iconheight>
+	<!-- icon src and link-->
+	<!--<icon src="images/socails/facebook.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/flickr.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/lastfm.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/reddit.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/technorati.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/twitter.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/vimeo.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/youtube.png" link="http://activeden.net,_blank" />
+	<icon src="images/socails/blogger.png" link="http://activeden.net,_blank" />-->
+	<!-- php contact form -->
+	<form active="true">
+		<!-- text   -->
+		<name text="Name"></name>
+		<email text="Email"></email>
+		<message text="Message"></message>
+		<!-- color -->
+		<border normal="0xffffff" focus="0xffffff"></border>
+		<background normal="0x000000" focus="0x000000"></background>
+		<text normal="0xffffff" focus="0xffffff"></text>
+	</form>
+</data>

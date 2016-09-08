@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!-- banner config setting -->
+	<setting>
+		<!--  -->
+	</setting>
+	<!-- banner data source -->
+	<!--text background color, background alpha, ect. -->
+	<banner>
+		<image src="images/slideshow/1.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">FOR LESY</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">And you together of the time, every day the sun is very bright.</font>  ]]></text>
+	</banner>
+	<banner>
+		<image src="images/slideshow/2.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">MEET FOR THE FIRST TIME</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">We seem to get to know each other already a long time</font>  ]]></text>
+	</banner>
+	<banner>
+		<image src="images/slideshow/3.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">THE BEAUTY OF THE DARK</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">This could be the shadow of the most beautiful I've ever seen.</font>  ]]></text>
+	</banner>
+	<banner>
+		<image src="images/slideshow/4.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">LOVE HAS NO DISTANCE</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">Love can make our nostrils have no distance.</font>  ]]></text>
+	</banner>
+
+<banner>
+		<image src="images/slideshow/6.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">THE LOVELY YOU</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">We always have a lot of happy things.</font>  ]]></text>
+	</banner>
+
+<banner>
+		<image src="images/slideshow/5.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">I HAVE YOU</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">This let me every day very valuable.</font>  ]]></text>
+	</banner>
+
+</data>

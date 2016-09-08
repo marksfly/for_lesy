@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- XML TEMPLATE CONFIG SETTING -->
+<data>
+	<!-- LOGO -->
+	<logo>
+		<setting>
+			<!-- logo setting -->
+			<logo x="20" y="10" width="201" height="39">images/logo.png</logo>
+		</setting>
+	</logo>
+	<!-- VIDEO PROGRESS BAR -->
+	<progressbar>
+		<!-- video progress bar color -->
+		<color>0x3f9c00</color>
+	</progressbar>
+	<!-- FOOTER -->
+	<footer>
+		<setting>
+			<!-- footer background -->
+			<background alpha="0.8" color="0x121212"></background>
+			<!-- icon width and height,please make sure that all icons are in this size -->
+			<iconwidth>24</iconwidth>
+			<iconheight>24</iconheight>
+			<!-- socailnetworks -->
+			<icon src="images/socails/facebook.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/flickr.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/lastfm.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/reddit.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/technorati.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/twitter.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/vimeo.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/youtube.png" link="http://www.flashdos.com,_blank" />
+			<icon src="images/socails/blogger.png" link="http://www.flashdos.com,_blank" />
+		</setting>
+		<text><![CDATA[<font color="#a6a6a6">More <font color="#ffffff"><a href="http://flymarks.lofter.com/" target="_blank">www.flymarks.lofter.com</a> <font color="#a6a6a6"></font>]]></text>
+	</footer>
+	<!-- BACKGROUND -->
+	<background>
+		<setting>
+			<!-- background setting -->
+		</setting>
+		<!-- website background tile -->
+		<tile src="images/background/tile.png" alpha="0.5"></tile>
+	</background>
+	<!-- BACKGROUND MUSIC -->
+	<musicandscreen>
+		<!-- if you don't need background music, keep visible="false" -->
+		<setting musicvisible="true" fullscreenvisible="true">
+			<!-- setting -->
+		</setting>
+		<sound src="sounds/nn.mp3"></sound>
+	</musicandscreen>
+	<!-- NAVIGATION -->
+	<navigation>
+		<!-- navigate setting -->
+		<setting>
+			<!-- main size, sub size -->
+			<fontsize>20,16</fontsize>
+			<onOverColor>0xffffff</onOverColor>
+			<onOutColor>0xffffff</onOutColor>
+			<onOverAlpha>0.6</onOverAlpha>
+			<onOutAlpha>1</onOutAlpha>
+			<!-- tweener setting -->
+			<tweener_time>0.5</tweener_time>
+			<tweener_transition>easeOutExpo</tweener_transition>
+			<tweener_delay>0.05</tweener_delay>
+		</setting>
+		<!-- the name of nav only supports space (like "about us" "contact us"), dont type like "_" "&" and so on -->
+		<nav id="home" name="HOME" src="index/nav/home" link="false" />
+		<nav id="news" name="SCENERY" src="index/nav/news" link="false" />
+		<nav id="gallery" name="GALLERY" src="" link="false">
+			<subnav id="fashion" name="RECORD" src="index/nav/fashion" link="false"></subnav>
+			<!--<subnav id="landscape" name="LANDSCAPE" src="index/nav/landscape" link="false"></subnav>
+			<subnav id="mixed" name="MIXED GALLERY" src="index/nav/mixed" link="false"></subnav>
+			<subnav id="video" name="VIDEO GALLERY" src="index/nav/video" link="false"></subnav>-->
+		</nav>
+		<!--<nav id="about" name="ABOUT" src="" link="false" >
+			<subnav id="aboutus" name="WHO WE ARE" src="index/nav/aboutus" link="false"></subnav>
+			<subnav id="aboutclients" name="CLIENTS" src="index/nav/aboutclients" link="false"></subnav>
+			<subnav id="service" name="SERVICE" src="index/nav/service" link="false"></subnav>
+			<subnav id="team" name="TEAM" src="index/nav/team" link="false"></subnav>
+		</nav>-->
+		<!--<nav id="reel" name="SHOWREEL" src="index/nav/reel" link="false" />-->
+		<nav id="contact" name="CONTACT" src="index/nav/contact" link="false" />
+		<!--<nav id="external" name="EXTERNAL" src="index/nav/external"  link="false"/>-->
+		<!-- open new window, link="true" -->
+		<!--<nav id="" name="BLOG" src="http://www.flashdos.com,_blank" link="true" />-->
+	</navigation>
+	<!-- HOME -->
+	<home>
+		<setting>
+			<!-- home setting -->
+		</setting>
+	</home>
+	<!-- NEWS -->
+	<news>
+		<setting>
+			<!-- news setting -->
+			<!-- buttons colors-->
+			<onOverColor>0xC80000</onOverColor>
+			<onOutColor>0xffffff</onOutColor>
+			<onOverBackColor>0xC80000</onOverBackColor>
+			<onOutBackColor>0xffffff</onOutBackColor>
+			<!-- buttons tweentime(second) -->
+			<tweenTime>1</tweenTime>
+		</setting>
+	</news>
+	<!-- SERVICE -->
+	<service>
+		<setting>
+			<!-- service setting -->
+			<!-- buttons colors-->
+			<onOverColor>0xC80000</onOverColor>
+			<onOutColor>0xffffff</onOutColor>
+			<!-- buttons tweentime(second) -->
+			<tweenTime>1</tweenTime>
+		</setting>
+	</service>
+	<!-- TEAM -->
+	<team>
+		<setting>
+			<!-- team setting -->
+			<!-- buttons colors-->
+			<onOverColor>0xC80000</onOverColor>
+			<onOutColor>0xffffff</onOutColor>
+			<!-- buttons tweentime(second) -->
+			<tweenTime>1</tweenTime>
+		</setting>
+	</team>
+	<!-- 
+	SLIDESHOW 
+	-->
+	<slideshow>
+		<setting>
+			<!-- slideshow setting -->
+			<!-- tile source and tile alpha-->
+			<tile src="images/background/tile.png" alpha="0.5"></tile>
+		    <!-- buttons and texts color setting. -->
+		    <onOverColor>0xC80000</onOverColor>
+			<onOutColor>0xffffff</onOutColor>
+			<onOverTextColor>0xffffff</onOverTextColor>
+			<onOutTextColor>0x000000</onOutTextColor>
+			<!-- slideshow interval (second) -->
+			<interval>8</interval>
+		</setting>
+	</slideshow>
+	<!-- GALLERY -->
+	<gallery>
+		<setting>
+			<!-- gallery setting -->
+			<!-- thumbnail row -->
+			<row>2</row>
+			<!-- page left and right buttons colors-->
+			<onOverColor>0xC80000</onOverColor>
+			<onOutColor>0xffffff</onOutColor>
+			<!-- controller buttons color-->
+			<onOverCtrlColor>0xffffff</onOverCtrlColor>
+			<onOutCtrlColor>0x000000</onOutCtrlColor>
+			<!-- controller buttons background color -->
+			<onOverButtonBGColor>0xC80000</onOverButtonBGColor>
+			<onOutButtonBGColor>0xffffff</onOutButtonBGColor>
+			<!-- buttons tweentime(second) -->
+			<tweenTime>1</tweenTime>
+		</setting>
+	</gallery>
+	<!-- ABOUT -->
+	<about>
+		<setting>
+			<!-- about setting -->
+		</setting>
+	</about>
+	<!-- REEL -->
+	<reel>
+		<setting>
+			<!-- reel setting --> 
+			<!-- seekbar color and alpha -->
+			<seekbarAlpha>1</seekbarAlpha>
+			<!-- seekbar background color and alpha -->
+			<seekbarBgColor>0xffffff</seekbarBgColor>
+			<seekbarBgAlpha>0.1</seekbarBgAlpha>
+		</setting>
+	</reel>
+	<!-- CONTACT -->
+	<contact>
+		<setting>
+			<!-- contact setting -->
+		</setting>
+	</contact>
+</data>
